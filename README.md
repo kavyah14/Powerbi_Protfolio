@@ -2,7 +2,8 @@
 
 This interactive Finance Dashboard was developed in Power BI to provide a comprehensive view of financial performance and support strategic decision-making for stakeholders. The dashboard is structured with user-friendly visuals and dynamic filters to deliver actionable insights at a glance.
 
-✅ Objectives:
+**✅ Objectives:**
+
 Enable monitoring of financial KPIs and cash flow trends.
 
 Identify performance gaps across different financial categories and time periods.
@@ -10,7 +11,8 @@ Identify performance gaps across different financial categories and time periods
 Provide drill-down capability into expenses and revenues for granular analysis.
 
 
-📌 Key Features:
+**📌 Key Features:**
+
 Dynamic Date Filters: Users can interact with slicers to filter financial data by custom date ranges.
 
 Category Breakdown: Detailed analysis of income and expenses by category and sub-category.
@@ -20,7 +22,8 @@ Visuals: Bar charts, line graphs, area charts, and KPIs cards for clear data sto
 DAX Measures: Custom DAX was used to calculate metrics like monthly average, cumulative totals, and variance analysis.
 
 
-📈 KPIs Included:
+**📈 KPIs Included:**
+
 Total Income – Displays overall revenue earned within the selected period.
 
 Total Expenses – Summarizes all outgoing cash flow over time.
@@ -40,13 +43,14 @@ Cumulative Totals – Running totals for Income and Expenses to track growth ove
 Highest Expense Category – Highlights the top spending area to assist in cost control.
 
 
-⚙️ Tools & Technologies Used:
+**⚙️ Tools & Technologies Used:**
+
 Power BI Desktop for report creation and data modeling.
 
 DAX (Data Analysis Expressions) for calculated columns and measures.
 
 Power Query Editor for data transformation and cleaning.
-Dashboard Pdf:
+Dashboard Pdf:file:///C:/Users/005836/Downloads/Finance-Report%20Dasboard.pdf
 
 Dashboard Images
 :![image (1)](https://github.com/user-attachments/assets/bc9c8d95-49f0-49e8-ae84-a6f25ee47b39)
