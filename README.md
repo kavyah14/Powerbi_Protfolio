@@ -54,7 +54,7 @@ DAX (Data Analysis Expressions) for calculated columns and measures.
 Power Query Editor for data transformation and cleaning.
 
 
-Dashboard Pdf:file:///C:/Users/005836/Downloads/Finance-Report%20Dasboard.pdf
+Dashboard PDF: 
 
 Dashboard Images
 :![image (1)](https://github.com/user-attachments/assets/bc9c8d95-49f0-49e8-ae84-a6f25ee47b39)
