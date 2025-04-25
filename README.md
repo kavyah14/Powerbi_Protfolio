@@ -22,6 +22,7 @@ Provide drill-down capability into expenses and revenues for granular analysis.
 **DAX Measures:** Custom DAX was used to calculate metrics like monthly average, cumulative totals, and variance analysis.
 
 
+
 **📈 KPIs Included:**
 
 **Total Income** – Displays overall revenue earned within the selected period.
@@ -43,6 +44,7 @@ Provide drill-down capability into expenses and revenues for granular analysis.
 **Highest Expense Category** – Highlights the top spending area to assist in cost control.
 
 
+
 **⚙️ Tools & Technologies Used:**
 
 Power BI Desktop for report creation and data modeling.
@@ -50,6 +52,7 @@ Power BI Desktop for report creation and data modeling.
 DAX (Data Analysis Expressions) for calculated columns and measures.
 
 Power Query Editor for data transformation and cleaning.
+
 
 Dashboard Pdf:file:///C:/Users/005836/Downloads/Finance-Report%20Dasboard.pdf
 
