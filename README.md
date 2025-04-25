@@ -17,7 +17,7 @@ Provide drill-down capability into expenses and revenues for granular analysis.
 
 **Category Breakdown**: Detailed analysis of income and expenses by category and sub-category.
 
-**Visuals:** Bar charts, line graphs, area charts, and KPIs cards for clear data storytelling.
+**Visuals:** Bar charts, line graphs, area charts, Treemaps, Line and stacked column charts, Line and clustered column charts, and KPI cards for clear data storytelling.
 
 **DAX Measures:** Custom DAX was used to calculate metrics like monthly average, cumulative totals, and variance analysis.
 
