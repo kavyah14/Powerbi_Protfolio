@@ -1,4 +1,5 @@
 📊 **Finance Power BI Dashboard – Portfolio Project**
+
 This interactive Finance Dashboard was developed in Power BI to provide a comprehensive view of financial performance and support strategic decision-making for stakeholders. The dashboard is structured with user-friendly visuals and dynamic filters to deliver actionable insights at a glance.
 
 ✅ Objectives:
