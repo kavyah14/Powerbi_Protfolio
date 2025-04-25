@@ -19,8 +19,29 @@ Provide drill-down capability into expenses and revenues for granular analysis.
 
 **Visuals:** Bar charts, line graphs, area charts, Treemaps, Line and stacked column charts, Line and clustered column charts, and KPI cards for clear data storytelling.
 
-**DAX Measures:** Custom DAX was used to calculate metrics like monthly average, cumulative totals, and variance analysis.
+📊 Visualizations Used
+KPI Cards – Displaying Total Income, Expenses, Net Profit, and Profit Margin.
 
+Line Charts – Monthly trends of income and expenses.
+
+Bar & Column Charts – Category-wise breakdown of expenses and income.
+
+Treemaps – Quick visual of spending proportions by category.
+
+Line & Clustered Column Charts – Combined view of profit and trends over time.
+
+Slicers – Interactive filters for custom date range and category analysis
+
+🧮 DAX Measures
+Created custom DAX formulas to support advanced metrics, including:
+
+Monthly Average: AVERAGEX over months
+
+Cumulative Totals: TOTALYTD for running sums
+
+Profit Margin (%): (Total Income - Total Expenses) / Total Income
+
+Variance Analysis: Comparison of current vs. previous periods
 
 
 **📈 KPIs Included:**
