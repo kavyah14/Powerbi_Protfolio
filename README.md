@@ -55,7 +55,7 @@ DAX (Data Analysis Expressions) for calculated columns and measures.
 Power Query Editor for data transformation and cleaning.
 
 
-Dashboard PDF: 
+Dashboard Url: https://app.powerbi.com/view?r=eyJrIjoiNTg3NWJkNzktNzQxNy00NDNkLTllNTAtYTY2ZDEzYmQ0ZTI3IiwidCI6IjhhMzhkNWM5LWZmMmYtNDc5ZS04NjM3LWQ3M2Y2MjQxYTRmMCIsImMiOjEwfQ%3D%3D
 
 Dashboard Images
 :![image (1)](https://github.com/user-attachments/assets/bc9c8d95-49f0-49e8-ae84-a6f25ee47b39)
