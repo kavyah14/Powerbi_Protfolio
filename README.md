@@ -9,6 +9,7 @@ Identify performance gaps across different financial categories and time periods
 
 Provide drill-down capability into expenses and revenues for granular analysis.
 
+
 📌 Key Features:
 Dynamic Date Filters: Users can interact with slicers to filter financial data by custom date ranges.
 
@@ -17,6 +18,7 @@ Category Breakdown: Detailed analysis of income and expenses by category and sub
 Visuals: Bar charts, line graphs, area charts, and KPIs cards for clear data storytelling.
 
 DAX Measures: Custom DAX was used to calculate metrics like monthly average, cumulative totals, and variance analysis.
+
 
 📈 KPIs Included:
 Total Income – Displays overall revenue earned within the selected period.
@@ -36,6 +38,7 @@ Profit Margin (%) – Measures the efficiency of profit generation relative to r
 Cumulative Totals – Running totals for Income and Expenses to track growth over time.
 
 Highest Expense Category – Highlights the top spending area to assist in cost control.
+
 
 ⚙️ Tools & Technologies Used:
 Power BI Desktop for report creation and data modeling.
