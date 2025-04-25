@@ -13,9 +13,9 @@ Provide drill-down capability into expenses and revenues for granular analysis.
 
 **📌 Key Features:**
 
-**Dynamic Date Filters: **Users can interact with slicers to filter financial data by custom date ranges.
+****Dynamic Date Filters:** Users can interact with slicers to filter financial data by custom date ranges.
 
-**Category Breakdown: **Detailed analysis of income and expenses by category and sub-category.
+****Category Breakdown: **Detailed analysis of income and expenses by category and sub-category.
 
 **Visuals:** Bar charts, line graphs, area charts, and KPIs cards for clear data storytelling.
 
